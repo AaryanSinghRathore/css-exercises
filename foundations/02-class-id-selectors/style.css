@@ -1,0 +1,21 @@
+p{
+    background-color: pink;
+    font-size: 15px;
+}
+
+#first {
+    background-color: white;
+    color: blue;
+    font-size: 40px;
+}
+
+#second {
+    background-color: green;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.cooler{
+    background-color: pink;
+    font-size: 35px;
+}
